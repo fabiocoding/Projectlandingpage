@@ -32,3 +32,55 @@
   background-color: #04AA6D;
   color: white;
 }
+
+.page2nd{
+background-color:black;
+height: 50vh;
+width: 100%;
+color: white;
+padding-left: 16px;
+margin: -8px;
+margin-top: -22px;
+
+}
+
+#toppic{
+align-items: center;
+}
+
+
+.topright{
+  display: flex;
+  flex-direction: row-reverse;
+  }
+
+
+.bx-quote {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    padding: 0 200px;
+}
+
+
+.bx-quote p {
+  font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: lighter;
+    font-family: 'Roboto', arial;
+}
+
+.bx-quote b {
+padding-bottom: 20px;
+padding-right: 10px;
+font-family: 'Roboto', arial;
+text-align: right;
+}
+
+
+.bx-footer{
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
